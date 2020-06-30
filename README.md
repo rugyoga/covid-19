@@ -21,7 +21,7 @@ Get the last seven days of data with:
 
 county level:
 ```ruby
-ruby covid19.rb state
+ruby covid19.rb county
 ```
 
 state level:
