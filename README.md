@@ -17,7 +17,7 @@ The rationale being that some days might have reporting quirks
 so a seven day average smooths those quirks out.
 
 Assuming you have a recent version of ruby installed (most Macs do).
-Get the last seven days oif data with:
+Get the last seven days of data with:
 
 county level:
 ```ruby
