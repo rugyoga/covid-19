@@ -15,3 +15,16 @@ Then computes a seven day average for the last seven days.
 The rationale being that some days might have reporting quirks
 (e.g. more cases might be reported on mondays as they were reported late from the weekend)
 so a seven day average smooths those quirks out.
+
+Assuming you have a recent version of ruby installed (most Macs do).
+Get the last seven days oif data with:
+
+county level:
+```ruby
+ruby covid19.rb state
+```
+
+state level:
+```ruby
+ruby covid19.rb
+```
